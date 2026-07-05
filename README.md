@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mhmoud803/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mhmoud803/ProblemSolving/tree/master/0304-range-sum-query-2d-immutable) |
 ## Design
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mhmoud803/ProblemSolving/tree/master/0304-range-sum-query-2d-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mhmoud803/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mhmoud803/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
