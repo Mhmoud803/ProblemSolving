@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mhmoud803/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mhmoud803/ProblemSolving/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Math
 |  |
 | ------- |
@@ -34,5 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mhmoud803/ProblemSolving/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mhmoud803/ProblemSolving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mhmoud803/ProblemSolving/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 <!---LeetCode Topics End-->
